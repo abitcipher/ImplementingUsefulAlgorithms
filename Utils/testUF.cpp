@@ -1,6 +1,6 @@
 #include "UnionFind.h"
 #include <iostream>
-#include "DEBUG.h"
+#include "Debug.h"
 #include "../RandomTreap/Treap.h"//for set union
 using namespace igmdk;
 
