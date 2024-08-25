@@ -12,7 +12,7 @@
 #include "../RandomNumberGeneration/Random.h"
 #include "../RandomTreap/Treap.h"
 #include "../ComputationalGeometry/Point.h"
-#include "../Optimization/Metaheuristics.h"
+#include "../Optimization/MetaHeuristics.h"
 #include "../NumericalMethods/Matrix.h"
 #include "NumericalOptimization.h"
 #include "DifferentialEvolution.h"
