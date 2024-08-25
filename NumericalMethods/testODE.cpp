@@ -9,7 +9,7 @@
 
 #include "../NumericalOptimization/GlobalNumericalOptimization.h"
 #include "../RandomNumberGeneration/Statistics.h"
-#include "../Utils/DEBUG.h"
+#include "../Utils/Debug.h"
 #include "../ExternalMemoryAlgorithms/CSV.h"
 #include "NumericalMethodsTestAuto.h"
 using namespace std;
