@@ -3,7 +3,7 @@
 #include <cmath>
 #include "../Utils/Vector.h"
 #include "../RandomNumberGeneration/Random.h"
-#include "../Optimization/Metaheuristics.h"
+#include "../Optimization/MetaHeuristics.h"
 namespace igmdk{
 
 class UnboundedSampler
